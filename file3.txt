@@ -1,0 +1,3 @@
+hello
+thisisaditya
+it is my new file in GITBash
